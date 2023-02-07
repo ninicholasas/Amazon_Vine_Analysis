@@ -11,11 +11,13 @@ I chose __amazon_reviews_us_Wireless_v1_00.tsv.gz__ for this analysis.
 ### Paid
 * Total reviews: 613
 * Total 5-star reviews: 222
-* Percentage of 5 -star reviews: 36.22%
+* Percentage of 5-star reviews: 36.22%
 
 ### Unpaid
 * Total reviews: 64,968
 * Total 5-star reviews: 30,543
-* Percentage of 5 -star reviews: 47.01%
+* Percentage of 5-star reviews: 47.01%
 
 ## Summary
+
+From the analysis there was no strong support that there were a positive bias, the 5-star percentage is farely low.  The vine reviewers that had a paid review is a very small portion of the total reviews. Conducting an analysis based on the helpful reviews might be fare for further analysis.
